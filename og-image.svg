@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.30"/>
+      <stop offset="45%" stop-color="#3b82f6" stop-opacity="0.10"/>
+      <stop offset="75%" stop-color="#3b82f6" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#09090b"/>
+  <circle cx="1030" cy="120" r="430" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#3b82f6"/>
+
+  <!-- monogram -->
+  <rect x="80" y="72" width="72" height="72" rx="20" fill="#3b82f6"/>
+  <text x="116" y="122" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">M</text>
+
+  <text x="172" y="105" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" letter-spacing="1">MUMSHAD JAWAD</text>
+  <text x="172" y="133" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" fill="#3b82f6" letter-spacing="4">APP &amp; WEB TEAM LEAD</text>
+
+  <!-- headline -->
+  <text x="80" y="290" font-family="Helvetica, Arial, sans-serif" font-size="82" font-weight="bold" fill="#ffffff" letter-spacing="-2">ENGINEERING</text>
+  <text x="80" y="378" font-family="Helvetica, Arial, sans-serif" font-size="82" font-weight="bold" fill="#3b82f6" letter-spacing="-2">ROI-DRIVEN</text>
+  <text x="80" y="466" font-family="Helvetica, Arial, sans-serif" font-size="82" font-weight="bold" fill="#ffffff" letter-spacing="-2">SOLUTIONS.</text>
+
+  <!-- stats strip -->
+  <line x1="80" y1="520" x2="1120" y2="520" stroke="#1f1f23" stroke-width="2"/>
+
+  <text x="80" y="566" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#3b82f6">$50k+</text>
+  <text x="80" y="592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#a1a1aa" letter-spacing="2">SAAS SAVINGS</text>
+
+  <text x="330" y="566" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff">40%</text>
+  <text x="330" y="592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#a1a1aa" letter-spacing="2">PRODUCTIVITY GAIN</text>
+
+  <text x="620" y="566" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff">99.7%</text>
+  <text x="620" y="592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#a1a1aa" letter-spacing="2">DATA INTEGRITY</text>
+
+  <text x="1120" y="566" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="end">DUBAI, UAE</text>
+  <text x="1120" y="592" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="bold" fill="#3b82f6" letter-spacing="2" text-anchor="end">MUMSHADJAWAD.COM</text>
+</svg>
